@@ -1,0 +1,50 @@
+  [{
+		"AdiSoyadi": "Mustafa Kemal Atatürk",
+		"DogumTarihi": "1881",
+		"GorevAraligi": "1923-1938",
+		"ResimURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/r0.png",
+		"KapakURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/k0.jpg",
+		"Detay": "13 yaşında ArsDigita Ödülü'ne layık görülen Swartz, henüz 14 yaşındayken RSS adı verilen internet besleme biçimini gerçekleştiren ekipte yer almış, 15 yaşında ise IEEE Intelligent Systems dergisinde hakemli bir makale yayınlamıştı."
+	},
+	{
+		"AdiSoyadi": "İsmet İnönü",
+		"DogumTarihi": "1884",
+		"GorevAraligi": "1938-1950",
+		"ResimURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/r1.jpeg",
+		"KapakURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/k1.jpg",
+		"Detay": "Alman İmparatorluğu'nun Ulm kentinde, Aşkenazi Yahudi bir ailede dünyaya gelen Einstein, yaşamının ilk yıllarını Münih'te geçirdi. Lise eğitimini ve yüksek eğitimini İsviçre'de tamamladı; fakat bir üniversitede iş bulmada yaşadığı zorluklar nedeniyle bir patent ofisinde müfettiş olarak çalışmaya başladı."
+	},
+ 	{
+		"AdiSoyadi": "Celâl Bayar",
+		"DogumTarihi": "1883",
+		"GorevAraligi": "1950-1960",
+		"ResimURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/r2.jpg",
+		"KapakURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/k2.jpg",
+		"Detay": "Venüs'ün evrelerinin teleskopik kanıtı, Jüpiter'in en büyük dört uydusunun keşfi (Galileo'nun uyduları adı verilmiştir), güneş lekelerinin gözlemi analizi bulunmaktadır. Galileo ayrıca uygulamalı bilim ve teknoloji alanında da çalışmış ve geliştirilmiş bir askeri pusula gibi başka aletler icat etmiştir."
+	},
+ 	{
+		"AdiSoyadi": "Cemal Gürsel",
+		"DogumTarihi": "1895",
+		"GorevAraligi": "1960-1961",
+		"ResimURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/r3.jpg",
+		"KapakURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/k3.jpg",
+		"Detay" : "Bilgisayar biliminin kurucusu sayılır. Geliştirmiş olduğu Turing testi ile makinelerin ve bilgisayarların düşünme yetisine sahip olup olamayacakları konusunda bir kriter öne sürmüştür."
+	},
+ 	{
+		"AdiSoyadi": "Cevdet Sunay",
+		"DogumTarihi": "1899",
+		"GorevAraligi": "1966-1966",
+		"ResimURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/r4.jpg",
+		"KapakURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/k4.jpg",
+		"Detay": "Avusturya İmparatorluğu'nda doğup büyüyen Tesla, 1870'lerde mühendislik ve fizik alanında ileri bir eğitim aldı ve 1880'lerin başında telefonculukta ve Continental Edison'da yeni elektrik enerjisi endüstrisinde çalışırken uygulamalı deneyim kazandı"
+	},
+	 {
+		"AdiSoyadi": "Fahri Korutürk",
+		"DogumTarihi": "1903",
+		"GorevAraligi": "1973-1980",
+		"ResimURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/r5.png",
+		"KapakURL": "https://raw.githubusercontent.com/eneskadirisler/FinalOdevi/main/k5.jpg",
+		"Detay": "Uranyumla yaptığı deneyler sonucu radyoaktiviteyi keşfetti. Toryumun radyoaktif özelliğini buldu ve radyum elementini ayrıştırdı. 1903 Nobel Fizik ödülü, 1911 Nobel Kimya ödülü sahibi ve radyoloji biliminin kurucusudur. Çalışmalarıyla bir çığır açan Curie, Nobel Ödülü'nü alan ilk kadın, bu ödülü iki kere alan ilk bilim insanı olmuştur."
+	}
+
+]
